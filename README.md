@@ -9,7 +9,7 @@ This repository contains a series of daily Python programming challenges designe
 
 ### **Dias 1 a 20: Fundamentos e Lógica Básica**
 - [x] **Day 1:** Verifique se um número é par ou ímpar.
-- [ ] **Day 2:** Calcule o fatorial de um número.
+- [x] **Day 2:** Calcule o fatorial de um número.
 - [ ] **Day 3:** Gere a sequência de Fibonacci até o enésimo termo.
 - [ ] **Day 4:** Inverta uma string sem usar bibliotecas.
 - [ ] **Day 5:** Verifique se uma palavra é um palíndromo.
