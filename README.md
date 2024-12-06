@@ -11,7 +11,7 @@ This repository contains a series of daily Python programming challenges designe
 - [x] **Day 1:** Verifique se um número é par ou ímpar.
 - [x] **Day 2:** Calcule o fatorial de um número.
 - [x] **Day 3:** Gere a sequência de Fibonacci até o enésimo termo.
-- [ ] **Day 4:** Inverta uma string sem usar bibliotecas.
+- [x] **Day 4:** Inverta uma string sem usar bibliotecas.
 - [ ] **Day 5:** Verifique se uma palavra é um palíndromo.
 - [ ] **Day 6:** Calcule a soma dos dígitos de um número.
 - [ ] **Day 7:** Converta um número binário em decimal.
