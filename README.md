@@ -15,7 +15,7 @@ This repository contains a series of daily Python programming challenges designe
 - [x] **Day 5:** Verifique se uma palavra é um palíndromo.
 - [x] **Day 6:** Calcule a soma dos dígitos de um número.
 - [x] **Day 7:** Converta um número binário em decimal.
-- [ ] **Day 8:** Encontre o maior e o menor número em uma lista.
+- [x] **Day 8:** Encontre o maior e o menor número em uma lista.
 - [ ] **Day 9:** Ordene uma lista sem usar funções prontas (ex.: bubble sort).
 - [ ] **Day 10:** Encontre todos os números primos em um intervalo.
 - [ ] **Day 11:** Verifique se duas strings são anagramas.
