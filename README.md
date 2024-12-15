@@ -17,7 +17,7 @@ This repository contains a series of daily Python programming challenges designe
 - [x] **Day 7:** Converta um número binário em decimal.
 - [x] **Day 8:** Encontre o maior e o menor número em uma lista.
 - [x] **Day 9:** Ordene uma lista sem usar funções prontas (ex.: bubble sort).
-- [ ] **Day 10:** Encontre todos os números primos em um intervalo.
+- [x] **Day 10:** Encontre todos os números primos em um intervalo.
 - [ ] **Day 11:** Verifique se duas strings são anagramas.
 - [ ] **Day 12:** Implemente o algoritmo de busca binária.
 - [ ] **Day 13:** Calcule o MMC (mínimo múltiplo comum) entre dois números.
